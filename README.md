@@ -1,4 +1,5 @@
 # first-course-app
+Vue course first app project
 
 ## Project setup
 ```
